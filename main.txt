@@ -1,0 +1,1 @@
+path.exists("guru99.txt")
